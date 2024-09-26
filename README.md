@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-**pINE** is a program which allows users to run and test **.POI** (/pɔɪ/) files.
+**pINE** is a program which allows users to run and test **.ZOI** files.
 It's built in [Python](https://github.com/python) and Batch.
 
 
@@ -11,8 +11,8 @@ It's built in [Python](https://github.com/python) and Batch.
 - Good looking UI
 - Planned support for multiple file types
 - Multiple themes
-- Built-in POI OS builder
+- Built-in ZOI OS builder
 
 ## CREDITS
-- Me - Program POI file type, program itself.
+- Me - ZOI file type, program itself.
 - [Python Software Foundation ](https://www.python.org/) Language the program is built in.
